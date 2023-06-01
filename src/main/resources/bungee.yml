@@ -1,0 +1,6 @@
+name: BungeeDocker
+version: '${project.version}'
+main: fr.first92.bungeedocker.BungeeDocker
+author: First92
+depends:
+  - Sync
